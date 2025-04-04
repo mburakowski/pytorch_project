@@ -62,4 +62,5 @@ This project demonstrates:
 
 **Training and validation loss:**
 
-![image](https://github.com/user-attachments/assets/2dcdd580-423b-45d4-8f53-a6dd3ce00e9d)
+![image](https://github.com/user-attachments/assets/51f1efd1-cfd5-438e-a2eb-8641e620dc8a)
+
