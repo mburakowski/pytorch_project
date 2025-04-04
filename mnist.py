@@ -85,7 +85,7 @@ def evaluate(model, loader, loss_fn, label="Val", return_preds=False):
     print(f"{label} accuracy: {acc:.2f}%  loss: {total_loss/len(loader):.4f}")
     if return_preds:
         return acc, total_loss, y_true, y_pred
-    return acc, total_loss
+    return acc, total_loss / len(loader)
 
 # --- Macierz bledu ---
 def plot_confusion_matrix(y_true, y_pred):
