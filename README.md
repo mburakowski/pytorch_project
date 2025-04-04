@@ -33,3 +33,14 @@ matplotlib
 seaborn
 scikit-learn
 NumPy
+
+Example output:
+From terminal:
+![image](https://github.com/user-attachments/assets/fd676b23-9dee-47ff-b763-680a5ef8b757)
+Confusion matrix:
+![image](https://github.com/user-attachments/assets/eefd7e42-39bc-4d0a-92e9-15eef8216364)
+Training and validation loss:
+![image](https://github.com/user-attachments/assets/2dcdd580-423b-45d4-8f53-a6dd3ce00e9d)
+
+
+
